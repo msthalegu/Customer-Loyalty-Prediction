@@ -20,8 +20,8 @@ To improve classification performance, future research should consider incorpora
 **Figure 3.**
 *Confusion Matrix of Logistic Regression Model*
 
-<img width="614" height="415" alt="image" src="https://github.com/user-attachments/assets/1acac88f-565a-45ac-9fec-9810c82a385b" />
 
+<img width="614" height="415" alt="image" src="https://github.com/user-attachments/assets/9d9dffef-d7b6-4050-b144-c52ea172d8e8" />
 
 **Figure 4.** 
 *Confusion Matrix of Decision Tree Classifier*
